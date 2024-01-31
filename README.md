@@ -4,6 +4,10 @@
 
 TechTitans
 
+## Team information (if applicable)
+
+We are TechTitans, a passionate group of developers. With our deep knowledge and experience in blockchain technology and smart contracts, we are dedicated to creating innovative solutions and transforming the digital world.
+
 ## Team Logo
 
 ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
@@ -19,8 +23,6 @@ Our project focuses on an HTTP GET smart contract built using Internet Computer 
 ## The tech we use
 
 Rust & Web3
- 
-## Team information (if applicable)
 
 ## Project Installation Guide
 
