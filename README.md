@@ -28,30 +28,30 @@ Rust & Web3
 
 This guide outlines the step-by-step process for deploying a project running on the Internet Computer blockchain and utilizing HTTP GET smart contracts for data exchange.
 
-### Step 1: Obtain Necessary Tools
+* Step 1: Obtain Necessary Tools
 
 To install your project, you'll first need to obtain the necessary tools. These include the Internet Computer development environment, a text editor, and a web browser.
 
-### Step 2: Download or Clone the Project Code
+* Step 2: Download or Clone the Project Code
 
 To install the project, download or clone the project code from GitHub or a similar platform.
 
 ```git clone <project_url>```
 
-### Step 3: Set Up the Working Environment
+* Step 3: Set Up the Working Environment
 
 Set up the working environment for the project. This step typically involves installing dependencies and configuring settings within a project directory.
 
 ```cd <project_directory>```
 ```npm install```
 
-## Step 4: Deploy the Smart Contract
+* Step 4: Deploy the Smart Contract
 
 Deploy the smart contract using the Internet Computer development environment. This step involves uploading the contract to the blockchain and making it available for use.
 
 ```dfx deploy```
 
-## Step 5: Start the Interface
+* Step 5: Start the Interface
 
 Start the user interface for the project. This typically involves launching a web server and enabling users to interact with the project.
 
