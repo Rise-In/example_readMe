@@ -4,7 +4,7 @@
 
 TechTitans
 
-## Logo: 
+## Team Logo
 
 ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
 
@@ -20,4 +20,8 @@ Our project focuses on an HTTP GET smart contract built using Internet Computer 
 
 Rust & Web3
  
-Team information (if applicable):
+## Team information (if applicable)
+
+## Project Installation
+
+
