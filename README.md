@@ -2,9 +2,7 @@
 
 Name: (Team/Individual name)
 
-Logo: ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo.png)
-<img src="https://github.com/Rise-In/example_readMe/blob/main/Example_logo.png alt="Team Logo" width="320" height="180">
-
+Logo: ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
 
 Vision:
 
