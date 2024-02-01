@@ -1,8 +1,6 @@
 # ByteBridge (Project Name)
 
-## Name (Team/Individual name)
-
-TechTitans
+## TechTitans (Team/Individual name)
 
 ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
 
