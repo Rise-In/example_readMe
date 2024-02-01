@@ -4,13 +4,20 @@
 
 TechTitans
 
-## Team information (if applicable)
-
-We are TechTitans, a passionate group of developers. With our deep knowledge and experience in blockchain technology and smart contracts, we are dedicated to creating innovative solutions and transforming the digital world.
-
-## Team Logo
-
 ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
+
+TechTitans, who met by chance at a party, immediately caught each other's interest. Despite coming from different professional backgrounds, they formed a strong team with a shared vision and passion.
+
+Having converged on Internet Computer to explore its capabilities and work on an HTTP GET project, they decided to embrace a unique approach by combining their diverse skills. Alejandro's technical expertise, Emilia's empathetic perspective, and Hiroshi's creative vision worked wonders in advancing the project. By complementing each other's strengths, they discovered the opportunities offered by Internet Computer and successfully completed the project together.
+
+This exemplary team harnessed their diversity to create a powerful synergy on the Internet Computer platform. Although they met by chance, their shared focus on a common goal led them to success, underscoring the strength found in diversity.
+
+ * Alejandro Fernandez - He is a software engineer based in Madrid. Alejandro, who specializes in software development, works full-time at a technology company, leading projects focused on mobile application development.
+   
+ * Emilia Müller  - He is a veterinarian based in Berlin. Known for her passion for animals, Emilia works at a veterinary clinic, providing treatment and care services focused on the health of pets.
+   
+ * Hiroshi Tanaka - He is a graphic designer based in Tokyo. Renowned for his creative thinking and artistic vision, Hiroshi works at an advertising agency, creating striking visuals and designs for brands.
+
 
 ## Vision
 
