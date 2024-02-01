@@ -31,7 +31,7 @@ Our project focuses on an HTTP GET smart contract built using Internet Computer 
 
 Rust & Web3
 
-## Project Contracct Adress
+## Project Contract Adress
 
 xxxxxxxxxxxxxxx
 
