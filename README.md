@@ -31,6 +31,10 @@ Our project focuses on an HTTP GET smart contract built using Internet Computer 
 
 Rust & Web3
 
+## Project Contracct Adress
+
+xxxxxxxxxxxxxxx
+
 ## Project Installation Guide
 
 This guide outlines the step-by-step process for deploying a project running on the Internet Computer blockchain and utilizing HTTP GET smart contracts for data exchange.
