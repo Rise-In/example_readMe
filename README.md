@@ -1,20 +1,11 @@
 # ByteBridge (Project Name)
 
-## TechTitans (Team/Individual name)
-
 ![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
 
-TechTitans, who met by chance at a party, immediately caught each other's interest. Despite coming from different professional backgrounds, they formed a strong team with a shared vision and passion.
+## TechTitans (Team/Individual name)
 
-Having converged on Internet Computer to explore its capabilities and work on an HTTP GET project, they decided to embrace a unique approach by combining their diverse skills. Alejandro's technical expertise, Emilia's empathetic perspective, and Hiroshi's creative vision worked wonders in advancing the project. By complementing each other's strengths, they discovered the opportunities offered by Internet Computer and successfully completed the project together.
 
-This exemplary team harnessed their diversity to create a powerful synergy on the Internet Computer platform. Although they met by chance, their shared focus on a common goal led them to success, underscoring the strength found in diversity.
-
- * Alejandro Fernandez - He is a software engineer based in Madrid. Alejandro, who specializes in software development, works full-time at a technology company, leading projects focused on mobile application development.
-   
- * Emilia Müller  - He is a veterinarian based in Berlin. Known for her passion for animals, Emilia works at a veterinary clinic, providing treatment and care services focused on the health of pets.
-   
- * Hiroshi Tanaka - He is a graphic designer based in Tokyo. Renowned for his creative thinking and artistic vision, Hiroshi works at an advertising agency, creating striking visuals and designs for brands.
+Yep, I'm [Alejandro Fernandez](https://linkedin.com), and this project came to life thanks to my craftsmanship and my addiction to coffee. While I'm waltzing with the software codes, it's just me and the 90s tunes playing in my head at the computer. In short, this project was brought to you by me, my coffee, and my computer! Believe me, consuming this much coffee made me quite determined not to collaborate with anyone but myself. As a result, this project is not just my lone hero story, but also fueled by my caffeine addiction!
 
 
 ## Vision
@@ -25,11 +16,25 @@ Our project aims to leverage the power of Internet Computer blockchain technolog
 
 Our project focuses on an HTTP GET smart contract built using Internet Computer blockchain technology. This smart contract utilizes the HTTP GET method for data exchange, making your transactions much faster and more efficient. Additionally, leveraging the flexibility and power of Internet Computer further strengthens your projects. This is truly a time-saving and impressive advancement.
 
-## The tech we use
+## Project Roadmap / Future Plans
+
+- User-Friendly Wallet Integration
+   * An interface will be developed for users to easily connect their different wallets.
+   * Integration will be established with popular wallets such as MetaMask, Trust Wallet, and Coinbase Wallet.
+
+- Ethereum Integration
+    * Integration with the Ethereum blockchain will be established.
+    * A compatible interface for smart contract interaction will be developed.
+
+- Polkadot Connection
+    * Research will be conducted for integration with the Polkadot network.
+    * The project will participate in the ecosystem by leveraging Polkadot's interchain communication protocols. 
+
+## The Tech We Use
 
 Rust & Web3
 
-## Project Contract Adress
+## Smart Contract Address
 
 xxxxxxxxxxxxxxx
 
