@@ -5,7 +5,7 @@
 ## TechTitans (Team/Individual Name)
 
 
-Yep, I'm [Alejandro Fernandez](https://linkedin.com), and this project came to life thanks to my craftsmanship and my addiction to coffee. While I'm waltzing with the software codes, it's just me and the 90s tunes playing in my head at the computer. In short, this project was brought to you by me, my coffee, and my computer! Believe me, consuming this much coffee made me quite determined not to collaborate with anyone but myself. As a result, this project is not just my lone hero story, but also fueled by my caffeine addiction!
+Yep, I'm the developer of this project [Alejandro Fernandez](https://linkedin.com), and this project came to life thanks to my craftsmanship and my addiction to coffee. While I'm waltzing with the software codes, it's just me and the 90s tunes playing in my head at the computer. In short, this project was brought to you by me, my coffee, and my computer! Believe me, consuming this much coffee made me quite determined not to collaborate with anyone but myself. As a result, this project is not just my lone hero story, but also fueled by my caffeine addiction!
 
 
 ## Vision
