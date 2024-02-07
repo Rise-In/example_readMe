@@ -4,17 +4,17 @@
 
 ## TechTitans (Team/Individual Name)
 
+Hello, I'm [Alejandro Fernandez](https://linkedin.com), an experienced blockchain engineer specializing in software development. For my latest project, I developed an HTTP GET smart contract on the Internet Computer blockchain technology. This contract utilizes the HTTP GET method for data exchange, significantly enhancing transaction speed and efficiency.
 
-Yep, I'm the developer of this project [Alejandro Fernandez](https://linkedin.com), and this project came to life thanks to my craftsmanship and my addiction to coffee. While I'm waltzing with the software codes, it's just me and the 90s tunes playing in my head at the computer. In short, this project was brought to you by me, my coffee, and my computer! Believe me, consuming this much coffee made me quite determined not to collaborate with anyone but myself. As a result, this project is not just my lone hero story, but also fueled by my caffeine addiction!
-
+I first encountered the Internet Computer blockchain while conducting in-depth research on blockchain technology. Throughout my learning journey, the resources and community support provided by the Internet Computer Foundation were invaluable. I dedicated myself to mastering this technology and decided to leverage the opportunities offered by the Internet Computer to realize my own projects.
 
 ## Vision
 
-Our project aims to leverage the power of Internet Computer blockchain technology to make data exchange and smart contract creation processes faster, easier, and more efficient for users. Through HTTP GET smart contracts, we aim to encourage the development of blockchain-based projects, ultimately creating a more open and accessible digital ecosystem on a global scale. In line with this vision, we are working to simplify the process of setting up complex network structures and democratize access to blockchain technology.
+My project aims to leverage the power of Internet Computer blockchain technology to make data exchange and smart contract creation processes faster, easier, and more efficient for users. Through HTTP GET smart contracts, we aim to encourage the development of blockchain-based projects, ultimately creating a more open and accessible digital ecosystem on a global scale. In line with this vision, we are working to simplify the process of setting up complex network structures and democratize access to blockchain technology.
 
 ## Description
 
-Our project focuses on an HTTP GET smart contract built using Internet Computer blockchain technology. This smart contract utilizes the HTTP GET method for data exchange, making your transactions much faster and more efficient. Additionally, leveraging the flexibility and power of Internet Computer further strengthens your projects. This is truly a time-saving and impressive advancement.
+My project focuses on an HTTP GET smart contract built using Internet Computer blockchain technology. This smart contract utilizes the HTTP GET method for data exchange, making your transactions much faster and more efficient. Additionally, leveraging the flexibility and power of Internet Computer further strengthens your projects. This is truly a time-saving and impressive advancement.
 
 ## Project Roadmap / Future Plans
 
